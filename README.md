@@ -1,0 +1,1 @@
+This is a Robotic Process Automation(RPA) project which is intended to scrap data from the web regarding the available flights between a specified source and destination on the selected date and storing the data into a Excel file. The user enters the source and the destination place and then the scraped data is sent to the user email as an Excel file.
